@@ -3,11 +3,7 @@ second commit
 hi this is master changess
 master commit
 in detatched head branchs
-
 this is dev branch changess
 and we are testing amazing rebase
-
-
-this is dev branch changess
-and we are testing amazing rebase
+hi
 
